@@ -6,7 +6,7 @@
       "email": "matiaszelarayandev@gmail.com",
       "phone": "+54 381 000 0000",
       "url": "https://github.com/R-Mutt22",
-      "summary": "Desarrolla Jr. con enfoque sólido en Backend con Java Spring Boot y diseño de APIs Restful. Expreriencia en React, autenticación JWT e integración de servicios externos. Tengo +2 años de experiencia Desarrollador. Actualmente estudio la Tecnicatura Universitaria en Diseño y Desarrollo de Aplicaciones Multiplataforma de la Universidad Nacional del Noroeste de Buenos Aires, con +70% de avance y un promedio de 9.5. Vivo en Rosario, Argentina. He trabajado en diferentes entornos realizando análisis funcional y requerimientos de sistema, diseño de interfaces y arquitectura. He trabajado en equipos diversos y multidisciplinarios.",
+      "summary": "Desarrollador Full Stack Jr. con un enfoque en Backend (Java Spring Boot) y diseño de APIs RESTful escalables, con experiencia en el ciclo de vida completo del desarrollo (React, TypeScript y PostgreSQL) para construir soluciones robustas y de alto rendimiento. Mi background en Gestión Cultural y Artes Visuales se traduce en una ventaja competitiva, orientada a la calidad del producto (QA) y al diseño centrado en el usuario (UX/UI). Busco aplicar mi visión en proyectos de impacto, ofreciendo la combinación de lógica y estética para la resolución eficiente de problemas, respaldado por certificaciones en Cloud (OCI) y un fuerte compromiso con la performance y la seguridad.",
       "location": {
         "address": "",
         "postalCode": "2000",
@@ -260,6 +260,13 @@
     }],
     "skills": [
       {
+        "name": "Java",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Backend", "ApiRest"
+        ]
+      },
+      {
         "name": "HTML",
         "level": "Junior",
         "keywords": [
@@ -281,10 +288,10 @@
         ]
       },
       {
-        "name": "Java",
+        "name": "React",
         "level": "Junior",
         "keywords": [
-          "Desarrollo Web", "Backend", "ApiRest"
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
         ]
       },
       {
@@ -292,13 +299,6 @@
         "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "Component", "Fullstack"
-        ]
-      },
-      {
-        "name": "Tailwind",
-        "level": "Junior",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
@@ -313,6 +313,20 @@
         "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name":"PostgreSQL",
+        "level": "Junior",
+        "keywords":[
+          "Desarrollo Web", "Fullstack", "Bases de Datos", "SQL", "Almacenamiento de Datos"
         ]
       },
       {
@@ -341,27 +355,6 @@
         "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Junior",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
-      },
-      {
-        "name": "Kotlin",
-        "level": "Junior",
-        "keywords":[
-          "Desarrollo Web","Frontend","Mobile"
-        ]
-      },
-      {
-        "name":"Flutter",
-        "level": "Junior",
-        "keywords":[
-          "Desarrollo Web", "Fullstack", "Mobile" 
         ]
       }
     ],
