@@ -106,6 +106,30 @@
     }],
       "certification": [
       {
+      "institution": "Testing con Metodologías y Automatización - Cilsa",
+      "url": "https://www.cilsa.org/testing-con-metodologia/",
+      "area": "Testing de Software: Backend testing y el proceso de automatización.",
+      "studyType": "Curso",
+      "startDate": "2025-02-01",
+      "endDate": "2025-12-01",
+      "score": "9.0",
+      "courses": [
+        "Repaso de pruebas de caja negra y caja blanca","Aprendiendo a trabajar con TestLink","Metodologías de trabajo","Aprendiendo a trabajar con Jira","Backend testing y el proceso de automatización"
+      ]
+    },
+    {
+      "institution": "Matodologías Ágiles - Polo Tecnológico Rosario",
+      "url": "https://centrodeformacion.polotecnologico.net/",
+      "area": "Metodologías Ágiles: Scrum, Kanban, XP, Lean y Design Thinking.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-11-01",
+      "score": "9.0",
+      "courses": [
+        " Scrum","Kanban","Extreme Programming (XP)","Lean Software Development","Design Thinking"
+      ]
+    },
+      {
       "institution": "DevOps - Alura Latam",
       "url": "https://www.aluracursos.com/formacion-devops",
       "area": "Formación DevOps: Colaboración y calidad del software.",
@@ -120,7 +144,7 @@
     {
       "institution": "xAcademy Dev. Technology with Purpose Foundation ",
       "url": "https://technologywithpurpose.org/xacademy/xacademy-dev/",
-      "area": "Programación Full Stack MEAN.",
+      "area": "1° Fase - Programación Full Stack MEAN",
       "studyType": "Bootcamp",
       "startDate": "2025-02-01",
       "endDate": "2025-07-01",
