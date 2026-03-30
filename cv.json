@@ -1,12 +1,21 @@
 {
     "basics": {
       "name": "Matías Zelarayán",
-      "label": "Software Developer",
+<<<<<<< HEAD
+      "label": "Backend Developer Jr. · Java & Spring Boot",
       "image": "/me.webp",
       "email": "matiaszelarayandev@gmail.com",
-      "phone": "+54 381 632 5567",
+      "phone": "+54 381 000 1234",
       "url": "https://github.com/R-Mutt22",
-      "summary": "Full Stack Developer Jr. y estudiante avanzado de la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma. Mi enfoque principal es la arquitectura Backend (Java, Spring Boot) y entornos Cloud (OCI), con experiencia en el ciclo de vida de software utilizando React, TypeScript y bases de datos relacionales. Mi formación previa en Artes Visuales potencia mi capacidad para el Control de Calidad (QA) y el diseño de interfaces (UX/UI), garantizando productos que no solo son técnicamente eficientes y seguros, sino también visualmente coherentes y centrados en la experiencia del usuario. Busco aplicar mi visión en proyectos de impacto, con un fuerte compromiso con la performance y la seguridad.",
+      "summary": "Backend Developer Jr. especializado en Java y Spring Boot, con foco en el diseño de APIs RESTful, autenticación JWT y arquitectura limpia. Construí proyectos reales con equipos multidisciplinarios: un sistema de microservicios para gestión de salud, una plataforma para una organización sin fines de lucro y una red social on-chain en 48 horas durante el Solana Latam Hackathon 2026. Actualmente curso la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA), con promedio 9,57. Mi formación en artes visuales me da criterio para pensar en experiencia de usuario y detectar errores de interfaz antes de que lleguen a producción. Disponible para trabajar en cualquier modalidad.",
+=======
+      "label": "Backend Developer Jr. · Java & Spring Boot",
+      "image": "/me.webp",
+      "email": "matiaszelarayandev@gmail.com",
+      "phone": "+54 381 000 1234",
+      "url": "https://github.com/R-Mutt22",
+      "summary": "Backend Developer Jr. especializado en Java y Spring Boot, con foco en el diseño de APIs RESTful, autenticación JWT y arquitectura limpia. Construí proyectos reales con equipos multidisciplinarios: un sistema de microservicios para gestión de salud, una plataforma para una organización sin fines de lucro y una red social on-chain en 48 horas durante el Solana Latam Hackathon 2026. Actualmente curso la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA), con promedio 9,57. Mi formación en artes visuales me da criterio para pensar en experiencia de usuario y detectar errores de interfaz antes de que lleguen a producción. Disponible para trabajar en cualquier modalidad.",
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
       "location": {
         "address": "",
         "postalCode": "2000",
@@ -35,6 +44,7 @@
     },
     "work": [
       {
+<<<<<<< HEAD
         "name": "Almapiedra SRL",
         "position": "Desarrollador Web",
         "url": "https://almapiedra.com.ar/#!/-inicio/",
@@ -54,6 +64,47 @@
         "summary": "● Optimicé y actualicé la plataforma web para mejorar la experiencia de usuario (UX). ● Coordiné la estrategia en redes sociales y diseñé contenido digital para aumentar la visibilidad y el alcance de los eventos. ● Monitoreé métricas clave, logrando un aumento del 35% en la visibilidad en línea.",
         "highlights": [
           "Started the company"
+=======
+        "name": "Backend Developer Jr.",
+        "position": "Desarrollo independiente",
+        "url": "https://github.com/R-Mutt22",
+        "startDate": "2025-07-01",
+        "endDate": null,
+        "summary": "Trabajo en equipos multidisciplinarios y proyectos con clientes reales, cubriendo el ciclo completo de desarrollo. Proyectos destacados: · ArtBlink — red social on-chain seleccionada para el programa de incubación de Solana Foundation. · Skill Link — 3er puesto en la Hackathon Alumnithon 2025 como Tech Lead Backend, liderando un equipo de 4 developers. · Fundación Medjugorje — plataforma en producción para cliente real, desarrollada en equipo de 13 personas. · MediHub — sistema de microservicios para gestión de salud.",
+        "highlights": [
+          "ArtBlink seleccionado para incubación — Solana Foundation",
+          "Tech Lead Backend — Hackathon Alumnithon 2025 (3er puesto)",
+          "Plataforma en producción para cliente real — Fundación Medjugorje",
+          "Stack: Java · Spring Boot · Spring Security · Spring AI · Docker · MySQL · PostgreSQL · React · TypeScript · Git/GitHub"
+        ]
+      },
+      {
+        "name": "Almapiedra SRL",
+        "position": "Desarrollador Frontend & Web",
+        "url": "https://almapiedra.com.ar/#!/-inicio/",
+        "startDate": "2024-05-01",
+        "endDate": "2024-06-01",
+        "summary": "Rediseño completo de la página web institucional de forma autónoma, con foco en modernización visual, performance y base técnica para e-commerce. Trabajo presencial en Rosario para cliente real.",
+        "highlights": [
+          "Mejora del 22% en el tiempo de carga tras reestructuración completa",
+          "Implementación de SEO básico y buenas prácticas de desarrollo web",
+          "Arquitectura técnica base diseñada para futura integración de e-commerce",
+          "Trabajo autónomo · cliente real · contrato presencial"
+        ]
+      },
+      {
+        "name": "ArteCo Feria de Arte Contemporáneo",
+        "position": "Analista de Performance & Comunicación Digital",
+        "url": "https://artecocorrientes.com/",
+        "startDate": "2023-05-01",
+        "endDate": "2023-06-01",
+        "summary": "Optimización de plataforma web y estrategia digital para feria de arte contemporáneo de Corrientes. Trabajo remoto, jornada completa.",
+        "highlights": [
+          "Aumento del 35% en visibilidad online mediante monitoreo de métricas clave",
+          "Optimización de UX en plataforma web del evento",
+          "Coordinación de estrategia en redes sociales y contenido digital",
+          "Trabajo remoto · cliente real · evento cultural de alcance regional"
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
         ]
       }
     ],
@@ -95,7 +146,11 @@
   {
       "institution": "Universidad Nacional de Tucumán",
       "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
+<<<<<<< HEAD
       "area": "Licenciatura en Artes Visuales. On hold.",
+=======
+      "area": "Licenciatura en Artes Visuales.",
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
       "studyType": "Licenciatura",
       "startDate": "2009-02-01",
       "endDate": "2013-07-01",
@@ -142,6 +197,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "institution": "xAcademy Dev. Technology with Purpose Foundation ",
       "url": "https://technologywithpurpose.org/xacademy/xacademy-dev/",
       "area": "Fase 1 - Programación Full Stack MEAN",
@@ -157,6 +213,11 @@
       "institution": "ONE LAB Tech Advance - Certificación OCI Foundations Associate",
       "url": "https://www.oracle.com/latam/education/certification/#oci",
       "area": "Ruta hacia la certificación OCI Foundations Associate.",
+=======
+      "institution": "ONE LAB Tech Advance - Certificación OCI Foundations Associate",
+      "url": "https://www.oracle.com/latam/education/certification/#oci",
+      "area": "Certificación OCI Foundations Associate.",
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
       "studyType": "Bootcamp",
       "startDate": "2025-02-01",
       "endDate": "2025-07-01",
@@ -178,6 +239,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "institution": "Codo a Codo 4.0",
       "url": "https://buenosaires.gob.ar/informe/full-stack-con-java-cac-40",
       "area": "Programación Full Stack, desarrollo en Java.",
@@ -202,6 +264,8 @@
       ]
     },
     {
+=======
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
       "institution": "AWS Re/Start - Potrero digital fundación Compromiso",
       "url": "https://www.potrerodigital.org/aws",
       "area": "Soluciones en la nube, Cloud Practitioner.",
@@ -224,6 +288,7 @@
       "courses": [
         "1","2","3","4","5","6","7","8","9"
       ]
+<<<<<<< HEAD
     },
     {
       "institution": " Universidad Nacional de Rosario - Extensión Escuela de Oficios",
@@ -264,6 +329,10 @@
       ],
 
 
+=======
+    }
+    ],
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
@@ -406,6 +475,7 @@
     }],
     "projects": [
       {
+<<<<<<< HEAD
         "name": "Fundación Medjugorje Argentina",
         "isActive": true,
         "description": "Plataforma a medida de gestión y organización de eventos religiosos",
@@ -426,10 +496,21 @@
           "Multiplataforma",
           "React & Java Spring Boot",
           "Open Source"
+=======
+        "name": "MediHub — Sistema de gestión clínica con microservicios",
+        "isActive": true,
+        "description": "Aplicación web Open Source desarrollada en equipo (+10 personas) que reemplaza procesos manuales en papel para clínicas pequeñas y centros de salud. Centraliza la gestión de citas médicas presenciales y virtuales, historiales clínicos y autenticación de usuarios. Arquitectura de microservicios con servicios independientes por dominio, contenerizados con Docker y comunicados via REST.",
+        "highlights": [
+          "Arquitectura de microservicios — Java Spring Boot",
+          "Autenticación JWT con Spring Security",
+          "React + TypeScript · MySQL · Docker",
+          "Desarrollo en equipo (+10 personas) · Open Source"
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
         ],
         "url": "https://github.com/nc-proyectos/Medihub/tree/main"
       },
       {
+<<<<<<< HEAD
         "name": "PetCare Platform MVP",
         "isActive": false,
         "description": " Aplicación web de gestión de servicios para mascotas; reservar paseos, cuidados y supervisar la calidad del servicio.",
@@ -449,10 +530,33 @@
           "APIs RESTful",
           "Spring Websocket",
           "3er puesto Hackathon Alumnithon Bad Batch"
+=======
+        "name": "ArtBlink — Red social on-chain para artistas visuales",
+        "isActive": true,
+        "description": "Plataforma descentralizada construida en 48 horas durante el Solana Latam Hackathon 2026 (WayLearn y Solana Foundation). Permite a artistas compartir obras, recibir feedback y enviar propinas directamente en SOL, sin intermediarios. Toda la lógica corre on-chain: perfiles, publicaciones, likes y pagos son instrucciones en un smart contract deployado en Solana Devnet. Seleccionado para el programa de incubación de Solana Foundation.",
+        "highlights": [
+          "Seleccionado para incubación — Solana Foundation",
+          "Smart contract en Rust & Anchor (Devnet)",
+          "React + TypeScript + Wallet Adapter",
+          "Sin backend centralizado — 100% on-chain"
+        ],
+        "url": "https://github.com/R-Mutt1917/artblink"
+      },
+      {
+        "name": "Skill Link — Plataforma de mentoría para desarrolladores",
+        "isActive": false,
+        "description": "Plataforma web que conecta desarrolladores con mentores y desafíos técnicos en tiempo real. Construida durante el Hackathon Alumnithon 2025 (Alura Latam) — 3er puesto. Mi rol: Tech Lead Backend, responsable del diseño de la arquitectura REST y WebSocket, modelado de base de datos, implementación de seguridad con JWT y CORS, features en tiempo real (chat y notificaciones) y despliegue en Render. Coordiné un equipo de 4 backend developers.",
+        "highlights": [
+          "3er puesto — Hackathon Alumnithon 2025 (Alura Latam)",
+          "Tech Lead Backend · equipo de 4 developers",
+          "Spring WebSocket — chat y notificaciones en tiempo real",
+          "JWT · Spring Security · Deploy en Render"
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
         ],
         "url": "https://github.com/R-Mutt22/alumnithon-bad-batch-backend"
       },
       {
+<<<<<<< HEAD
         "name": "Event Manager MVP",
         "isActive": true,
         "description": "Administrador de eventos descentralizados basado en blockchain de Solana; crea, gestiona y verifica eventos con seguridad y transparencia.",
@@ -479,3 +583,42 @@
     ]
   }
 
+=======
+        "name": "Fundación Medjugorje — Plataforma de gestión para organización real",
+        "isActive": true,
+        "description": "Plataforma web a medida desarrollada para la Asociación de la Virgen de Medjugorje Argentina, un cliente real con necesidades concretas de gestión. Permite a los administradores de la fundación gestionar el padrón de fieles, registrar nuevos miembros mediante formulario público y administrar eventos religiosos con autenticación segura. Proyecto académico con impacto real: la plataforma quedó funcional y deployada en producción. Desarrollada por un equipo de 13 personas con metodología colaborativa.",
+        "highlights": [
+          "Cliente real — plataforma en producción",
+          "React · Django · Base de datos relacional",
+          "Autenticación de administradores + formulario público",
+          "Equipo de 13 personas · proyecto académico-profesional"
+        ],
+        "url": "https://github.com/matiaszelarayan/Medjugorje-"
+      }, 
+      {
+        "name": "PetCare Platform — Marketplace de servicios para mascotas",
+        "isActive": false,
+        "description": "Aplicación web desarrollada en equipo (5 personas) para el Hackathon ONE - NoCountry. Conecta dueños de mascotas, cuidadores y administradores en un ecosistema con tres roles diferenciados. Mi rol: Frontend Developer responsable de la integración con el backend REST, arquitectura del cliente React y gestión del estado global con Context API. La plataforma incluye autenticación JWT, gestión de reservas con validación de horarios, perfiles por rol y panel de administración.",
+        "highlights": [
+          "Hackathon ONE - NoCountry · equipo de 5 personas",
+          "Frontend · integración REST + arquitectura React",
+          "JWT · Spring Boot · PostgreSQL · Context API",
+          "3 roles: dueño, cuidador y administrador"
+        ],
+        "url": "https://github.com/R-Mutt22/equipo5-petcare-frontend"
+      },
+      {
+        "name": "Event Manager — Administrador de eventos descentralizado en Solana",
+        "isActive": false,
+        "description": "Programa on-chain desarrollado en solitario como introducción práctica a Solana y Web3. Implementa un flujo completo de gestión de eventos descentralizados: creación de eventos, venta de tokens de colaboración, venta de entradas, distribución proporcional de ganancias y retiro de fondos. Toda la lógica corre en 6 instrucciones on-chain (smart contract en Rust + Anchor), con bóvedas de tesorería y ganancias gestionadas directamente en la blockchain. Frontend en React + Tailwind para interactuar con el programa.",
+        "highlights": [
+          "Smart contract en Rust & Anchor — 6 instrucciones on-chain",
+          "Bóvedas de tesorería y ganancias en Solana",
+          "Full Stack solo — backend on-chain + frontend React",
+          "Proyecto de exploración Web3 / blockchain"
+        ],
+        "url": "https://github.com/R-Mutt22/event-manager"
+      }
+    ]
+  }
+>>>>>>> c077607 (feat: commit de sincronización y actualización con el remoto)
