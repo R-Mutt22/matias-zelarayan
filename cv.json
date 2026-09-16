@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Matías Zelarayán",
-      "label": "Backend Developer Jr. · Java & Spring Boot",
+      "label": "Backend Developer. · Java & Spring Boot",
       "image": "/me.webp",
       "email": "matiaszelarayandev@gmail.com",
       "phone": "+54 381 6325567",
       "url": "https://github.com/R-Mutt22",
-      "summary": "Backend Developer Jr. especializado en Java y Spring Boot, con foco en el diseño de APIs RESTful, autenticación JWT y arquitectura limpia. Construí proyectos reales con equipos multidisciplinarios: un sistema de microservicios para gestión de salud, una plataforma para una organización sin fines de lucro y una red social on-chain en 48 horas durante el Solana Latam Hackathon 2026. Actualmente curso la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA), con promedio 9,57. Mi formación en artes visuales me da criterio para pensar en experiencia de usuario y detectar errores de interfaz antes de que lleguen a producción. Disponible para trabajar en cualquier modalidad.",
+      "summary": "Backend Developer especializado en Java y Spring Boot, con foco en el diseño de APIs RESTful, autenticación JWT y arquitectura limpia. Construí proyectos reales con equipos multidisciplinarios: un sistema de microservicios para gestión de salud, una plataforma para una organización sin fines de lucro y una red social on-chain en 48 horas durante el Solana Latam Hackathon 2026. Tecnico Universitario en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA), con promedio 9,35. Mi formación en artes visuales me da criterio para pensar en experiencia de usuario y detectar errores de interfaz antes de que lleguen a producción. Disponible para trabajar en cualquier modalidad.",
       "location": {
         "address": "",
         "postalCode": "2000",
@@ -35,7 +35,7 @@
     },
     "work": [
       {
-        "name": "Backend Developer Jr.",
+        "name": "Backend Developer.",
         "position": "Desarrollo independiente",
         "url": "https://github.com/R-Mutt22",
         "startDate": "2025-07-01",
@@ -95,33 +95,9 @@
       "studyType": "Tecnicatura",
       "startDate": "2024-02-01",
       "endDate": "2026-07-01",
-      "score": "9.7",
+      "score": "9.3",
       "courses": [
         "Desarrollo Web","Conceptos de Programación","Introducción al Diseño de Interfaz","Análisis Funcional de Aplicaciones Web","Planificación de Proyectos","Maquetación y Desarrollo Web I","Protocolo y Arquitectura Web","Desarrollo de Aplicaciones para Dispositivos Móviles","Sistemas Operativos","Inglés Técnico","Diseño Interactivo","Introducción a la Base de Datos","Maquetación y Desarrollo Web II","Programación Full Stack","Programación Dinámica","Emprendimiento de Negocios","Práctica Profesional y Legislación","Marketing Digital","Seguridad Informática","Proyecto Final"
-      ]
-    },
-    {
-      "institution": "Universidad Nacional de Jujuy",
-      "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
-      "area": "Diplomatura en Gestión de Proyectos Culturales.",
-      "studyType": "Licenciatura",
-      "startDate": "2020-02-01",
-      "endDate": "2021-07-01",
-      "score": "9.7",
-      "courses": [
-        "Gestión Cultural","Políticas Culturales","Economía de la Cultura","Marketing Cultural","Producción de Eventos Culturales","Proyecto de Gestión Cultural"
-      ]
-    },
-  {
-      "institution": "Universidad Nacional de Tucumán",
-      "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
-      "area": "Licenciatura en Artes Visuales.",
-      "studyType": "Licenciatura",
-      "startDate": "2009-02-01",
-      "endDate": "2013-07-01",
-      "score": "9.7",
-      "courses": [
-        "Historia del Arte","Teoría y Crítica del Arte","Taller de Producción Artística I","Taller de Producción Artística II","Taller de Producción Artística III","Taller de Producción Artística IV","Estética y Filosofía del Arte","Sociología del Arte","Psicología del Arte","Gestión Cultural","Seminario de Investigación I","Seminario de Investigación II","Proyecto Final de Carrera"
       ]
     }],
       "certification": [
@@ -350,78 +326,77 @@
       "name": "Jane Doe",
       "reference": "Reference…"
     }],
-    "projects": [
-      {
-        "name": "MediHub — Sistema de gestión clínica con microservicios",
-        "isActive": true,
-        "description": "Aplicación web Open Source desarrollada en equipo (+10 personas) que reemplaza procesos manuales en papel para clínicas pequeñas y centros de salud. Centraliza la gestión de citas médicas presenciales y virtuales, historiales clínicos y autenticación de usuarios. Arquitectura de microservicios con servicios independientes por dominio, contenerizados con Docker y comunicados via REST.",
-        "highlights": [
-          "Arquitectura de microservicios — Java Spring Boot",
-          "Autenticación JWT con Spring Security",
-          "React + TypeScript · MySQL · Docker",
-          "Desarrollo en equipo (+10 personas) · Open Source"
-        ],
-        "url": "https://github.com/nc-proyectos/Medihub/tree/main"
-      },
-      {
-        "name": "ArtBlink — Red social on-chain para artistas visuales",
-        "isActive": true,
-        "description": "Plataforma descentralizada construida en 48 horas durante el Solana Latam Hackathon 2026 (WayLearn y Solana Foundation). Permite a artistas compartir obras, recibir feedback y enviar propinas directamente en SOL, sin intermediarios. Toda la lógica corre on-chain: perfiles, publicaciones, likes y pagos son instrucciones en un smart contract deployado en Solana Devnet. Seleccionado para el programa de incubación de Solana Foundation.",
-        "highlights": [
-          "Seleccionado para incubación — Solana Foundation",
-          "Smart contract en Rust & Anchor (Devnet)",
-          "React + TypeScript + Wallet Adapter",
-          "Sin backend centralizado — 100% on-chain"
-        ],
-        "url": "https://github.com/R-Mutt1917/artblink"
-      },
-      {
-        "name": "Skill Link — Plataforma de mentoría para desarrolladores",
-        "isActive": false,
-        "description": "Plataforma web que conecta desarrolladores con mentores y desafíos técnicos en tiempo real. Construida durante el Hackathon Alumnithon 2025 (Alura Latam) — 3er puesto. Mi rol: Tech Lead Backend, responsable del diseño de la arquitectura REST y WebSocket, modelado de base de datos, implementación de seguridad con JWT y CORS, features en tiempo real (chat y notificaciones) y despliegue en Render. Coordiné un equipo de 4 backend developers.",
-        "highlights": [
-          "3er puesto — Hackathon Alumnithon 2025 (Alura Latam)",
-          "Tech Lead Backend · equipo de 4 developers",
-          "Spring WebSocket — chat y notificaciones en tiempo real",
-          "JWT · Spring Security · Deploy en Render"
-        ],
-        "url": "https://github.com/R-Mutt22/alumnithon-bad-batch-backend"
-      },
-      {
-        "name": "Fundación Medjugorje — Plataforma de gestión para organización real",
-        "isActive": true,
-        "description": "Plataforma web a medida desarrollada para la Asociación de la Virgen de Medjugorje Argentina, un cliente real con necesidades concretas de gestión. Permite a los administradores de la fundación gestionar el padrón de fieles, registrar nuevos miembros mediante formulario público y administrar eventos religiosos con autenticación segura. Proyecto académico con impacto real: la plataforma quedó funcional y deployada en producción. Desarrollada por un equipo de 13 personas con metodología colaborativa.",
-        "highlights": [
-          "Cliente real — plataforma en producción",
-          "React · Django · Base de datos relacional",
-          "Autenticación de administradores + formulario público",
-          "Equipo de 13 personas · proyecto académico-profesional"
-        ],
-        "url": "https://github.com/matiaszelarayan/Medjugorje-"
-      }, 
-      {
-        "name": "PetCare Platform — Marketplace de servicios para mascotas",
-        "isActive": false,
-        "description": "Aplicación web desarrollada en equipo (5 personas) para el Hackathon ONE - NoCountry. Conecta dueños de mascotas, cuidadores y administradores en un ecosistema con tres roles diferenciados. Mi rol: Frontend Developer responsable de la integración con el backend REST, arquitectura del cliente React y gestión del estado global con Context API. La plataforma incluye autenticación JWT, gestión de reservas con validación de horarios, perfiles por rol y panel de administración.",
-        "highlights": [
-          "Hackathon ONE - NoCountry · equipo de 5 personas",
-          "Frontend · integración REST + arquitectura React",
-          "JWT · Spring Boot · PostgreSQL · Context API",
-          "3 roles: dueño, cuidador y administrador"
-        ],
-        "url": "https://github.com/R-Mutt22/equipo5-petcare-frontend"
-      },
-      {
-        "name": "Event Manager — Administrador de eventos descentralizado en Solana",
-        "isActive": false,
-        "description": "Programa on-chain desarrollado como introducción práctica a Solana y Web3. Implementa un flujo completo de gestión de eventos descentralizados: creación de eventos, venta de tokens de colaboración, venta de entradas, distribución proporcional de ganancias y retiro de fondos. Toda la lógica corre en 6 instrucciones on-chain (smart contract en Rust + Anchor), con bóvedas de tesorería y ganancias gestionadas directamente en la blockchain. Frontend en React + Tailwind para interactuar con el programa.",
-        "highlights": [
-          "Smart contract en Rust & Anchor — 6 instrucciones on-chain",
-          "Bóvedas de tesorería y ganancias en Solana",
-          "Full Stack solo — backend on-chain + frontend React",
-          "Proyecto de exploración Web3 / blockchain"
-        ],
-        "url": "https://github.com/R-Mutt22/event-manager"
-      }
-    ]
-  }
+    "projects": [{
+      "name": "Portfolio Asistente IA — Sistema Conversacional RAG (Full Stack)",
+      "isActive": true,
+      "description": "Portafolio web conversacional e interactivo impulsado por un asistente de Inteligencia Artificial con arquitectura RAG (Retrieval-Augmented Generation). Permite realizar consultas sobre el perfil profesional, experiencia y proyectos en tiempo real. Cuenta con una API REST en Java 21 y Spring AI para la búsqueda semántica vectorial, e interfaz moderna desarrollada en Astro, React y TypeScript.",
+      "highlights": [
+        "Arquitectura RAG — Búsqueda semántica vectorial con Spring AI",
+        "Backend API REST — Java 21 & Spring Boot 3",
+        "Frontend Moderno — Astro, React & TypeScript",
+        "Despliegue — Render (Backend) y Cloudflare Pages (Frontend)"
+      ],
+      "url": "https://matiaszelarayan.tech/"
+    },
+    {
+      "name": "Skill Link — Plataforma de Mentorías con Comunicación en Tiempo Real",
+      "isActive": true,
+      "description": "Plataforma de mentorías técnicas galardonada con el 3er puesto en el Hackathon Alumnithon 2025 (Alura Latam). Desempeñé el rol de Tech Lead Backend, diseñando la arquitectura de la API REST, el modelo relacional, la seguridad con JWT/CORS y la infraestructura de WebSocket para habilitar chat interactivo y notificaciones en tiempo real. Coordiné un equipo de 4 desarrolladores backend.",
+      "highlights": [
+        "3er Puesto — Hackathon Alumnithon 2025 (Alura Latam)",
+        "Tech Lead Backend — Coordinación de equipo (4 devs)",
+        "Comunicación Real-Time — Spring WebSockets & Notificaciones",
+        "Seguridad & Deploy — Spring Security, JWT y Render"
+      ],
+      "url": "https://github.com/R-Mutt22/alumnithon-bad-batch-backend"
+    },
+    {
+      "name": "MediHub — Sistema de Gestión Clínica en Microservicios",
+      "isActive": true,
+      "description": "Plataforma web Open Source que digitaliza y centraliza la atención médica en clínicas pequeñas. Diseñada bajo una arquitectura de microservicios independientes e intercomunicados mediante APIs REST, integrando autenticación segura por tokens JWT, gestión de historial clínico y asignación de turnos. Contenerizada íntegramente con Docker para entornos de despliegue escalables.",
+      "highlights": [
+        "Microservicios — Java Spring Boot & Docker",
+        "Seguridad & Autenticación — Spring Security + JWT",
+        "Stack Frontend & DB — React, TypeScript y MySQL",
+        "Desarrollo Colaborativo Open Source (+10 devs)"
+      ],
+      "url": "https://github.com/nc-proyectos/Medihub/tree/main"
+    },
+    {
+      "name": "ArtBlink — Red Social On-Chain para Artistas Visuales",
+      "isActive": true,
+      "description": "Plataforma Web3 descentralizada desarrollada durante el Solana Latam Hackathon 2026. Permite la publicación de obras, retroalimentación y micropagos en SOL sin intermediarios. Toda la lógica de negocio (perfiles, publicaciones e interacciones) ejecuta 100% on-chain en Solana Devnet. Proyecto seleccionado para el programa de incubación de la Solana Foundation.",
+      "highlights": [
+        "Seleccionado para Incubación — Solana Foundation",
+        "Smart Contracts en Rust & Anchor Framework (Devnet)",
+        "Integración Web3 — React + TypeScript + Wallet Adapter",
+        "Arquitectura Descentralizada — Lógica 100% On-Chain"
+      ],
+      "url": "https://github.com/R-Mutt1917/artblink"
+    },
+    {
+      "name": "Fundación Medjugorje — Plataforma de Gestión (Tesis / Proyecto Final)",
+      "isActive": true,
+      "description": "Sistema web a medida desarrollado como proyecto final de carrera para la Asociación de la Virgen de Medjugorje Argentina (cliente real). Digitaliza el padrón de miembros, procesa inscripciones mediante formularios públicos y administra eventos religiosos mediante un panel restringido. Proyecto académico-profesional de alto impacto desplegado con éxito en producción por un equipo de 13 integrantes.",
+      "highlights": [
+        "Proyecto Final / Tesis — Cliente real en producción",
+        "Full Stack — React en Frontend y Django en Backend",
+        "Control de Acceso — Autenticación de administradores + Formulario público",
+        "Metodología Ágil — Proyecto colaborativo de 13 personas"
+      ],
+      "url": "https://github.com/matiaszelarayan/Medjugorje-"
+    },
+    {
+      "name": "PetCare Platform — Marketplace de Servicios para Mascotas",
+      "isActive": false,
+      "description": "Aplicación web desarrollada durante el Hackathon ONE (NoCountry) que conecta dueños de mascotas con cuidadores profesionales. Trabajé como Frontend Developer construyendo la arquitectura de la SPA en React, la gestión de estado global mediante Context API y el consumo de la API REST. Incluye control de acceso basado en roles (RBAC) para 3 tipos de usuario y módulo de reservas con validaciones.",
+      "highlights": [
+        "Hackathon ONE (NoCountry) — Equipo de 5 desarrolladores",
+        "Frontend Architecture — React, Context API & REST Consumption",
+        "Control de Acceso (RBAC) — Roles para cliente, prestador y admin",
+        "Integración Backend — Spring Boot, PostgreSQL y JWT"
+      ],
+      "url": "https://github.com/R-Mutt22/equipo5-petcare-frontend"
+    }
+  ]
+}
